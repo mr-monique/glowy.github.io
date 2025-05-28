@@ -1,0 +1,5 @@
+@use '../helpers/fonts';
+
+body {
+    @extend %fontMain;
+}
